@@ -1,4 +1,4 @@
-# Linking census population to survey data by municipality name
+# Linking census population to survey data by municipality name（自治体名による国勢調査人口の接合）
 
 An R utility for joining official census population figures onto a survey
 dataset, keyed on **prefecture + municipality name**.
